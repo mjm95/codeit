@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\static",
+    "\\static\\website",
+    "\\static\\website\\wp-content",
+    "\\static\\website\\wp-content\\themes",
+    "\\static\\website\\wp-content\\themes\\astra",
+    "\\static\\website\\wp-content\\themes\\astra\\assets",
+    "\\static\\website\\wp-content\\themes\\astra\\assets\\css",
+    "\\static\\website\\wp-content\\themes\\astra\\assets\\fonts",
+    "\\static\\website\\wp-content\\themes\\astra\\assets\\js"
+  ],
+  "SelectedNode": "\\codeit\\urls.py",
+  "PreviewInSolutionExplorer": false
+}

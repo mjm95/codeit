@@ -11,7 +11,6 @@ urlpatterns = [
     path('article-website', views.article_website, name="article-website"),
     path('article-customer', views.article_customer, name="article-customer"),
     path('article-covid-19', views.article_covid_19, name="article-covid-19"),
-    path('article-covid-19', views.article_covid_19, name="article-covid-19"),
-    path('article-covid-18', views.article_covid_19, name="article-covid-19"),
+
 
 ]
